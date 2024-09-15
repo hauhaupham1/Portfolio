@@ -359,9 +359,10 @@ section {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
+  justify-content: left;
   gap: 0.5rem;
 }
+
 
 article .icon {
   cursor: default;
@@ -452,4 +453,10 @@ footer p {
 
 .details-container p{
     color:rgb(83, 75, 75);
+}
+
+
+.section__pic-container img {
+ border-radius: 10px;
+  
 }
