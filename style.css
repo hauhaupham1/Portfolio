@@ -177,7 +177,12 @@ section {
   gap: 5rem;
   height: 80vh;
 }
-
+.section__pic-container,
+.section__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
 .section__pic-container {
   display: flex;
   height: 400px;
