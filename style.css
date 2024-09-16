@@ -461,6 +461,9 @@ footer p {
   
 }
 
-button{
+.btn-color-2{
   color: black;
+}
+.btn-container{
+  display: flex;
 }
