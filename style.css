@@ -464,6 +464,28 @@ footer p {
 .btn-color-2{
   color: black;
 }
-.btn-container{
+
+.details-container-experience{
+  padding: 30px 40px;
   display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  height: 100%;
+}
+button{
+  margin-top: auto; 
+  align-self: flex-end;
+}
+
+
+
+.image-format{
+ width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+.project-img{
+  width: 100%;
+  height: auto;
+  object-fit: contain;
 }
