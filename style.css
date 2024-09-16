@@ -288,7 +288,7 @@ section {
   margin-top: 2rem;
   /* flex-wrap: wrap; */
   overflow: auto;
-  justify-content: center;
+  /* justify-content: center; */
 }
 
 .about-details-container {
